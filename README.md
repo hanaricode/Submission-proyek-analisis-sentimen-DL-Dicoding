@@ -1,6 +1,6 @@
 # 📊 Sentiment Analysis of Shopee App Reviews
 
-![Python](https://img.shields.io/badge/Python-ver3-FFE873)
+![Jupyter-Notebook](https://img.shields.io/badge/Jupyter_Notebook-Lang-FFE873)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-Machine_Learning-orange)
 ![NLP](https://img.shields.io/badge/NLP-Indonesian-FF0000)
 ![Deep-Learning](https://img.shields.io/badge/Deep_Learning-Coming_Soon-87CEEB)
